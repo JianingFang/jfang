@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jianing Fang's Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jianing Fang"
 description              : &description "personal description"
 url                      : https://jianingfang.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
