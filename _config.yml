@@ -84,17 +84,17 @@ author:
   avatar           : "profile.png"
   bio              : "Earth & Planetary Science | Computer Science | Applied Math Undergraduate @ JHU"
   location         : "Baltimore, Maryland"
-  employer         :
+  employer         : Johns Hopkins University
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : jianingfang@jhu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/profile.php?id=100013904144292
   foursquare       :
   github           : "https://github.com/JianingFang"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : linkedin.com/in/jianing-fang-361a88131
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
