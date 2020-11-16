@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate studying **Computer Science, Earth & Planetary Sciences, and Applied Math and Statistics** at Johns Hopkins University. My academic goal is to pursue research at the intersection of environmental and computer science. I hope to **apply machine learning techniques on climate and earth system modeling problems**. 
+I am a senior undergraduate studying Computer Science, Earth & Planetary Sciences, and Applied Math and Statistics at **Johns Hopkins University**. My academic goal is to pursue research at the intersection of environmental and computer science. I hope to **apply machine learning techniques on climate and earth system modeling problems**. 
 
 Since January 2019, I have been working with [Dr. Benjamin Zaitchik](https://eps.jhu.edu/directory/benjamin-zaitchik/) to study the coupling of **wetland and climate changes on the Eastern Tibetan Plateau** using satellite images, ground observations, and climate models. I have also worked with [Dr. Katalin Szlavecz](https://eps.jhu.edu/directory/katalin-szlavecz/) and [Dr. Alex Szalay](https://physics-astronomy.jhu.edu/directory/alexander-s-szalay/) to develop a **user-friendly wireless sensor platform** for collecting in-situ measurements of soil temperature and moisture. 
 
