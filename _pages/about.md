@@ -14,4 +14,6 @@ Since January 2019, I have been working with [Dr. Benjamin Zaitchik](https://eps
 
 During the summers of 2018 and 2019, I worked as a research intern for **Nyanpo Yutse Conservation Association** to help Tibetan conservationists to survey alpine grasslands biodiversity and endangered plant species. I have also collaborated with a group of Chinese conservationists to conduct an interdisciplinary study on **illegal wildlife trade in China**.
 
-I am currently applying to **PhD programs** in earth and environmental science, and I would love to learn about the opportunites in the field of atmospheric and climate science. On this website you can find my CV, publication, and contact information. I appreciate your time of exploring this website. If you have any questions, I would be more than to talk with you. 
+I am currently applying to **PhD programs** in earth and environmental science. I would love to learn about the opportunites in the field of atmospheric and climate science. On this website you can find my CV, publication, and contact information. I appreciate your time of exploring this website. If you have any questions, I would be more than happy to talk with you. 
+
+Hope you have a pleasant day!
