@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-  Please see my (google scholar)[https://scholar.google.com/citations?user=yLkTvcsAAAAJ&hl=en&oi=ao] profile. 
+  Please see my [Google Scholar](https://scholar.google.com/citations?user=yLkTvcsAAAAJ&hl=en&oi=ao) profile. 
   
 
 
