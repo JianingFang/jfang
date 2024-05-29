@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianing Fang (Jerry)"
-  avatar           : "profile.png"
-  bio              : "Earth & Planetary Science | Computer Science | Applied Math Undergraduate @ JHU"
-  location         : "Baltimore, Maryland"
-  employer         : Johns Hopkins University
+  name             : "Jianing Fang"
+  avatar           : "jianingfang.jpeg"
+  bio              : "Earth & Environmental Engineering @ Columbia University"
+  location         : "New York, NY"
+  employer         : Columbia University
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : jianingfang@jhu.edu
+  googlescholar    : "https://scholar.google.com/citations?user=yLkTvcsAAAAJ&hl=en&oi=ao"
+  email            : jf3423@columbia.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
