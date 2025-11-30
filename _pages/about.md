@@ -20,7 +20,7 @@ In addition to my academic research, I work with the **NeuralGCM team at Google 
 
 My long-term vision is to build an integrative computational ecology approach that unifies ecological theory, remote sensing, hybrid modeling, and scalable scientific computing to strengthen detection, attribution, and forecasting of terrestrial ecosystem change.
 
-# Research Pedigree
+# Collaborations and Impacts
 
 My research is shaped by collaborations with leading groups at NASA JPL, the Max-Planck Institute for Biogeochemistry, Seoul National University, and teams across the United States, Europe, and Asia. These collaborations have applied the modeling frameworks I developed to study water stress, nutrient limitations, boreal forest turnover, Amazonian carbon variability, and other emergent ecological questions. 
 
