@@ -14,9 +14,7 @@ I completed my undergraduate studies at Johns Hopkins University in Computer Sci
 
 My work also leverages AI to construct **observational benchmarks** that harmonize multi-sensor satellite records into consistent photosynthesis and canopy-structure proxies from diurnal to multi-decadal scales. These datasets support ecological attribution, drought and heat-stress monitoring, and evaluation of land and weather models. 
 
-In addition to my academic research, I work with the **NeuralGCM team at Google Research**, contributing to efforts at the interface of machine learning and Earth system modeling.
-
-My long-term vision is to build an integrative computational ecology approach that unifies ecological theory, remote sensing, hybrid modeling, and scalable scientific computing to strengthen detection, attribution, and forecasting of terrestrial ecosystem change.
+In addition to my academic research, I work with the **NeuralGCM team at Google Research**, contributing to efforts at the interface of machine learning and Earth system modeling. In parallel, I have applied my ecological and geospatial expertise to community-led conservation on the Tibetan Plateau, supporting indigenous stewardship through long-term collaboration with a grassroots organization. I actively engage in education and outreach activities to translate knowledge from climate and ecological research into public awareness and equitable environmental decisions.
 
 # Collaborations and Impacts
 
