@@ -8,9 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year [PhD candidate](https://gentinelab.eee.columbia.edu/people/jianing-fang) at Columbia University advised by [Prof. Pierre Gentine](https://www.eee.columbia.edu/faculty/pierre-gentine). My current research focuses on combining process-based land models and machine learning to learn unknown functional relationships in terrestiral biosphere processes. I am also interested in using solar-induced fluorescence (SIF) to better understand photosynthesis and vegetation dynamics. My previous projectes include developing a [long-term reconstruction](https://arxiv.org/abs/2311.14987) of global SIF at 0.05 degree resolution from 1982-2021, and using the [diurnal variations of SIF](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16683) as an early signal of vegetation drought in the US Southwest.
+# About Me
 
-Prior to joining Prof. Gentine's lab, I graduated in May 2021 from the Johns Hopkins University with a BS degree in Computer Science, Earth & Planetary Sciences, and Applied Math and Statistics (GPA 3.96). During myhis undergraduate studies, I worked with Prof. Benjamin Zaitchik to apply remote sensing and in-situ observations to study the [climate drivers](https://www.mdpi.com/2072-4292/13/8/1484) of wetland change on the Eastern Tibetan Plateau. I also led the development, testing, and deployment of a [wireless sensor network](https://arxiv.org/abs/2102.10260) for soil moisture monitoring under the supervision of Prof. Katalin Szlavecz and Prof. Alex Szalay. 
+I am a PhD candidate in Earth and Environmental Engineering at Columbia University, advised by Prof. Pierre Gentine. My research integrates terrestrial ecosystem science, machine learning, and Earth system modeling to improve understanding and prediction of how the land biosphere responds to climate variability and long-term change. I develop **hybrid land modeling frameworks that combine mechanistic representations of the carbon–water–energy cycle with the flexibility of modern AI, enabling end-to-end learning of ecosystem processes from globally distributed observations**. 
 
-This site is currently under construction and will be updated with more exciting contents! You can follow my research on my [Google Scholar](https://scholar.google.com/citations?user=yLkTvcsAAAAJ&hl=en&oi=ao) Profile.
+I completed my undergraduate studies at Johns Hopkins University in Computer Science, Earth and Planetary Sciences, and Applied Mathematics. At Columbia, I have built **fully and automatically differentiable land biosphere systems** that integrate satellite constraints, atmospheric inversions, and eddy-covariance observations into a coherent modeling and discovery platform. These models reveal how environmental gradients regulate plant traits and functional diversity worldwide, diagnose coupled ecosystem responses to heat and drought, and improve multiyear predictions across heterogeneous landscapes. 
 
+My work also leverages AI to construct **observational benchmarks** that harmonize multi-sensor satellite records into consistent photosynthesis and canopy-structure proxies from diurnal to multi-decadal scales. These datasets support ecological attribution, drought and heat-stress monitoring, and evaluation of land and weather models. 
+
+In addition to my academic research, I work with the **NeuralGCM team at Google Research**, contributing to efforts at the interface of machine learning and Earth system modeling.
+
+My long-term vision is to build an integrative computational ecology approach that unifies ecological theory, remote sensing, hybrid modeling, and scalable scientific computing to strengthen detection, attribution, and forecasting of terrestrial ecosystem change.
+
+# Research Pedigree
+
+My research is shaped by collaborations with leading groups at NASA JPL, the Max-Planck Institute for Biogeochemistry, Seoul National University, and teams across the United States, Europe, and Asia. These collaborations have applied the modeling frameworks I developed to study water stress, nutrient limitations, boreal forest turnover, Amazonian carbon variability, and other emergent ecological questions. 
+
+# Research Interests
+
+- Hybrid modeling of terrestrial carbon, water, and energy dynamics  
+- Global spatial organization of plant traits and ecosystem function  
+- AI-based fusion of satellite records into long-term ecological benchmarks  
+- Ecological detection, attribution, and forecasting of climate impacts  
+
+# On the Job Market
+
+I am currently on the academic job market and open to faculty and research scientist opportunities beginning in 2026. I welcome inquiries regarding opportunities, collaborations, and invited talks.
