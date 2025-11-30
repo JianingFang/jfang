@@ -9,5 +9,5 @@ paperurl: 'https://doi.org/10.1029/2024MS004308'
 citation: 'Fang, J., & Gentine, P. (2024). Exploring Optimal Complexity for Water Stress Representation in Terrestrial Carbon Models: A Hybrid‐Machine Learning Model Approach. Journal of Advances in Modeling Earth Systems, 16(12), e2024MS004308.'
 ---
 
-[Download paper here](https://doi.org/10.1029/2024MS004308)
-[Download code](https://github.com/JianingFang/DifferLand_v1.0)
+[Download paper here](https://doi.org/10.1029/2024MS004308)  
+[Download code here](https://github.com/JianingFang/DifferLand_v1.0)
