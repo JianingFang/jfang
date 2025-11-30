@@ -33,4 +33,4 @@ My research is shaped by collaborations with leading groups at NASA JPL, the Max
 
 # On the Job Market
 
-I am currently on the academic job market and open to faculty and research scientist opportunities beginning in 2026. I welcome inquiries regarding opportunities, collaborations, and invited talks.
+I am currently on the academic job market and open to faculty and postdoc opportunities beginning in 2026. I welcome inquiries regarding opportunities, collaborations, and invited talks.
