@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a PhD candidate in Earth and Environmental Engineering at Columbia University, advised by Prof. Pierre Gentine. My research integrates terrestrial ecosystem science, machine learning, and Earth system modeling to improve understanding and prediction of how the land biosphere responds to climate variability and long-term change. I develop **hybrid land modeling frameworks that combine mechanistic representations of the carbon–water–energy cycle with the flexibility of modern AI, enabling end-to-end learning of ecosystem processes from globally distributed observations**. 
 
 I completed my undergraduate studies at Johns Hopkins University in Computer Science, Earth and Planetary Sciences, and Applied Mathematics. At Columbia, I have built **fully and automatically differentiable land biosphere systems** that integrate satellite constraints, atmospheric inversions, and eddy-covariance observations into a coherent modeling and discovery platform. These models reveal how environmental gradients regulate plant traits and functional diversity worldwide, diagnose coupled ecosystem responses to heat and drought, and improve multiyear predictions across heterogeneous landscapes. 
