@@ -3,8 +3,8 @@ title: "A long-term reconstruction of a global photosynthesis proxy over 1982–
 collection: publications
 permalink: /publication/scidata-lscpp
 excerpt: ""
-date: 2023-11-25
-venue: 'under review at RSE'
+date: 2025-03-03'
+venue: 'Scientific Data'
 paperurl: 'https://www.nature.com/articles/s41597-025-04686-6'
 citation: 'Fang, J., Lian, X., Ryu, Y., Jeong, S., Jiang, C., & Gentine, P. (2025). A long-term reconstruction of a global photosynthesis proxy over 1982–2023. Scientific data, 12(1), 372.'
 ---
