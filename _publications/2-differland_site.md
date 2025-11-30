@@ -1,0 +1,13 @@
+---
+title: "Exploring Optimal Complexity for Water Stress Representation in Terrestrial Carbon Models: A Hybrid‐Machine Learning Model Approach"
+collection: publications
+permalink: /publication/differland-site
+excerpt: "Accurate modeling of terrestrial carbon and water exchange requires robust ecological parameters that capture vegetation responses and adaptations to the local environment. The current generation of land models use Plant Functional Types (PFTs) to discretize vegetation functional diversity, but these coarse categorizations often overlook fine-scale variations shaped by local climate, soil, and forest age factors. The lack of governing equations for plant adaptation demands a paradigm shift in how we integrate diverse Earth observations to uncover ecological functional dependence on changing environments. To address this challenge, we developed DifferLand, a differentiable, hybrid physics and machine learning model that infers the spatial distributions of ecological parameters and their relationships with environmental factors constrained by satellite and in-situ observations. Our model unifies top-down and bottom-up observational constraints with process-based knowledge to generate a global analysis of ecological functions and their adaptation to environmental gradients. We found PFTs account for less than half of the explainable spatial parameter variations controlling carbon fluxes and vegetation states. The remaining parameter variability is largely driven by local climate and forest demography factors, and the learned environment-parameter relationships lead to enhanced spatial generalization at unseen locations. DifferLand identified growing season length, leaf economics, and agricultural intensity as the three orthogonal spatial gradients underlying parameter variations. Our novel framework can lead to new insights on global carbon cycling by learning directly from data and expanding our understanding of local responses of ecosystems to environmental drivers."
+date: 2024-11-25
+venue: 'Journal of Advances in Modeling Earth Systems'
+paperurl: 'https://doi.org/10.1029/2024MS004308'
+citation: 'Fang, J., & Gentine, P. (2024). Exploring Optimal Complexity for Water Stress Representation in Terrestrial Carbon Models: A Hybrid‐Machine Learning Model Approach. Journal of Advances in Modeling Earth Systems, 16(12), e2024MS004308.'
+---
+
+[Download paper here](https://doi.org/10.1029/2024MS004308)
+[Download code](https://github.com/JianingFang/DifferLand_v1.0)

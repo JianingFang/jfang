@@ -1,0 +1,12 @@
+---
+title: "Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters"
+collection: publications
+permalink: /publication/differland-global
+excerpt: "Accurate modeling of terrestrial carbon and water exchange requires robust ecological parameters that capture vegetation responses and adaptations to the local environment. The current generation of land models use Plant Functional Types (PFTs) to discretize vegetation functional diversity, but these coarse categorizations often overlook fine-scale variations shaped by local climate, soil, and forest age factors. The lack of governing equations for plant adaptation demands a paradigm shift in how we integrate diverse Earth observations to uncover ecological functional dependence on changing environments. To address this challenge, we developed DifferLand, a differentiable, hybrid physics and machine learning model that infers the spatial distributions of ecological parameters and their relationships with environmental factors constrained by satellite and in-situ observations. Our model unifies top-down and bottom-up observational constraints with process-based knowledge to generate a global analysis of ecological functions and their adaptation to environmental gradients. We found PFTs account for less than half of the explainable spatial parameter variations controlling carbon fluxes and vegetation states. The remaining parameter variability is largely driven by local climate and forest demography factors, and the learned environment-parameter relationships lead to enhanced spatial generalization at unseen locations. DifferLand identified growing season length, leaf economics, and agricultural intensity as the three orthogonal spatial gradients underlying parameter variations. Our novel framework can lead to new insights on global carbon cycling by learning directly from data and expanding our understanding of local responses of ecosystems to environmental drivers."
+date: 2024-11-25
+venue: 'Under Review. Preprint available on arXiv'
+paperurl: 'https://arxiv.org/abs/2411.09654'
+citation: 'Fang, J., Bowman, K., Zhao, W., Lian, X., & Gentine, P. (2024). Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters. arXiv preprint arXiv:2411.09654.'
+---
+[Download paper here](https://arxiv.org/abs/2411.09654)
+[Download data here](https://zenodo.org/records/17115044)
